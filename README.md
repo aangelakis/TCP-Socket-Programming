@@ -58,3 +58,6 @@ executing measurements using ping and traceroute tools for the other hosts in th
 are triggered by the client. Also, as soon as each measurement is accomplished, they transmit
 the required information to the client. The server functionality should be implemented in the
 server.py file.
+
+---
+# For more information about this project and the course, please follow this link: https://www.csd.uoc.gr/~hy335b/
